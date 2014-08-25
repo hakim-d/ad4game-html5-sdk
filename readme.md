@@ -67,7 +67,7 @@ ad4game_html5_sdk.interLevelShowAd();
 Change the interLevel count-down to 10 seconds and enable the background transparency:
 ```javascript
 ad4game_html5_sdk.interLevelShowAd(10, true);
-```javascript
+```
 Frequency capping (in hours) is disabled by default.
 Set a number of hours this Ad Unit should not appear again when the ad gets closed.
 The following example sets the Ad to show once per 12 hours.
