@@ -1,5 +1,7 @@
 Ad4Game SDK For Desktop And Mobile HTML5 Content
 =
+[Preview](http://ad4game.com/adspec/html5sdk/)
+=
 Ad4Game created this Javascript library to help HTML5 content publishers integrate Ads into their games or video players.
 Usage
 -
